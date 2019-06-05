@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    active: dev
+
+# 所有环境通用的配置，放在这里
+
+######### 分页插件 ##########
+pagehelper:
+  helper-dialect: mysql
+  params: count=countSql
+  reasonable: true
+  support-methods-arguments: true
+#spring.
