@@ -1,4 +1,4 @@
-package com.chen;
+package com.cjh;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

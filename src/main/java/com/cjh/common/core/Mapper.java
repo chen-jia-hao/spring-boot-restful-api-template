@@ -1,4 +1,4 @@
-package com.chen.core;
+package com.cjh.common.core;
 
 import tk.mybatis.mapper.common.BaseMapper;
 import tk.mybatis.mapper.common.ConditionMapper;

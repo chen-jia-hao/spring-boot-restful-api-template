@@ -1,4 +1,4 @@
-package com.chen.core;
+package com.cjh.common.core;
 
 
 import org.apache.ibatis.exceptions.TooManyResultsException;

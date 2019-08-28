@@ -1,4 +1,4 @@
-package com.chen.core;
+package com.cjh.common.core;
 
 import com.alibaba.fastjson.JSON;
 
