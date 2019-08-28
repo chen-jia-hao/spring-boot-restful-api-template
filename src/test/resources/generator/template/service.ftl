@@ -4,7 +4,7 @@ import ${basePackage}.common.core.Service;
 
 
 /**
- * @date  ${DATE}
+ * @date  ${date}
  * @author  ${author}
  * @version 1.0
  */

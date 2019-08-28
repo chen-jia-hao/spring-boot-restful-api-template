@@ -11,7 +11,7 @@ import javax.annotation.Resource;
 
 
 /**
- * @date  ${DATE}
+ * @date  ${date}
  * @author  ${author}
  * @version 1.0
  */

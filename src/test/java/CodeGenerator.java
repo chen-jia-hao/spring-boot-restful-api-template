@@ -92,7 +92,7 @@ public class CodeGenerator {
 
         // 使用lombok插件添加@Data注解
         PluginConfiguration pluginConfiguration3 = new PluginConfiguration();
-        pluginConfiguration3.setConfigurationType("com.chen.mybatis.generator.plugins.LombokPlugin");
+        pluginConfiguration3.setConfigurationType("com.cjh.mybatis.generator.plugins.LombokPlugin");
         pluginConfiguration3.addProperty("hasLombok", "true");
         context.addPluginConfiguration(pluginConfiguration3);
 

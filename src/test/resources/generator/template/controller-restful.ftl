@@ -12,7 +12,7 @@ import javax.annotation.Resource;
 import java.util.List;
 
 /**
- * @date  ${DATE}
+ * @date  ${date}
  * @author  ${author}
  * @version 1.0
  */
